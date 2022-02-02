@@ -10,3 +10,5 @@ My backlog
 1.7 As an amin I want to see analysis
 
 1.8 As a user I want a dashboard
+
+1.9 As a user I want graphic icons
