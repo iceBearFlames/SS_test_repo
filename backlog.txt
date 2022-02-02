@@ -12,3 +12,5 @@ My backlog
 1.8 As a user I want a dashboard
 
 1.9 As a user I want graphic icons
+
+1.10 As a user I want graphic buttons
