@@ -8,3 +8,5 @@ My backlog
 1.6 As and admin I want to generate reports
 
 1.7 As an amin I want to see analysis
+
+1.8 As a user I want a dashboard
